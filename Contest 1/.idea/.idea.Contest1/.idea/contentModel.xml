@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Contest1.360012057.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Contest1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TaskA" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskA.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskA.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskB" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskB.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskB.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskC" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskC.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskC.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+          <e p="05" t="Include" />
+          <e p="05.a" t="Include" />
+          <e p="06" t="Include" />
+          <e p="06.a" t="Include" />
+          <e p="07" t="Include" />
+          <e p="07.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskD.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+          <e p="05" t="Include" />
+          <e p="05.a" t="Include" />
+          <e p="06" t="Include" />
+          <e p="06.a" t="Include" />
+          <e p="07" t="Include" />
+          <e p="07.a" t="Include" />
+          <e p="08" t="Include" />
+          <e p="08.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskE" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskE.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskE.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+          <e p="05" t="Include" />
+          <e p="05.a" t="Include" />
+          <e p="06" t="Include" />
+          <e p="06.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskF" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskF.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskF.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+          <e p="05" t="Include" />
+          <e p="05.a" t="Include" />
+          <e p="06" t="Include" />
+          <e p="06.a" t="Include" />
+          <e p="07" t="Include" />
+          <e p="07.a" t="Include" />
+          <e p="08" t="Include" />
+          <e p="08.a" t="Include" />
+          <e p="09" t="Include" />
+          <e p="09.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskG" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskG.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskG.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+          <e p="05" t="Include" />
+          <e p="05.a" t="Include" />
+          <e p="06" t="Include" />
+          <e p="06.a" t="Include" />
+          <e p="07" t="Include" />
+          <e p="07.a" t="Include" />
+          <e p="08" t="Include" />
+          <e p="08.a" t="Include" />
+          <e p="09" t="Include" />
+          <e p="09.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskH" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskH.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskH.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+          <e p="05" t="Include" />
+          <e p="05.a" t="Include" />
+          <e p="06" t="Include" />
+          <e p="06.a" t="Include" />
+        </e>
+        <e p="tests.zip" t="Include" />
+      </e>
+      <e p="TaskI" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskI.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TaskJ" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TaskJ.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="TaskJ.csproj" t="IncludeRecursive" />
+        <e p="tests" t="Include">
+          <e p="01" t="Include" />
+          <e p="01.a" t="Include" />
+          <e p="02" t="Include" />
+          <e p="02.a" t="Include" />
+          <e p="03" t="Include" />
+          <e p="03.a" t="Include" />
+          <e p="04" t="Include" />
+          <e p="04.a" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
