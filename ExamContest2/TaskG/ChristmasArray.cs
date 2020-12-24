@@ -1,0 +1,4 @@
+internal class ChristmasArray : BaseArray
+{
+    
+}
