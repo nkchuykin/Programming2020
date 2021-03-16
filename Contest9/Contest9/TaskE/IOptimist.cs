@@ -1,4 +1,0 @@
-interface IOptimist
-{
-    double GetForecast();
-}

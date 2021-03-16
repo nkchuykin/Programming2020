@@ -1,4 +1,0 @@
-interface IPessimist
-{
-    double GetForecast();
-}
